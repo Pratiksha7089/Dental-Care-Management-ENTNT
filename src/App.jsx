@@ -20,7 +20,7 @@ const App = () => {
         <Route path="/login" element={<Login />} />
 
         {/* Redirect root to dashboard */}
-        <Route path="/" element={<Navigate to="/dashboard" />} />
+        <Route path="/" element={<Navigate to="/login" />} />
 
         {/* Admin Routes */}
         <Route
