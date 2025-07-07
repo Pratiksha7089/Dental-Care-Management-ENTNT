@@ -7,7 +7,7 @@ export const seedLocalStorage = () => {
           id: "1",
           role: "Admin",
           email: "admin@entnt.in",
-          password: "admin1234",
+          password: "admin123",
         },
         {
           id: "2",

@@ -9,7 +9,7 @@ const Login = () => {
 
   // 🟢 Demo users with patientId for patients
   const users = [
-    { email: "admin@entnt.in", password: "admin1234", role: "Admin" },
+    { email: "admin@entnt.in", password: "admin123", role: "Admin" },
     { email: "john@entnt.in", password: "patient123", role: "Patient", patientId: "p1" },
     { email: "jane@entnt.in", password: "patient123", role: "Patient", patientId: "p2" },
   ];
